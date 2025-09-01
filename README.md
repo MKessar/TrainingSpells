@@ -1,3 +1,3 @@
 # TrainingSpells
 Hello There !
-general Kenobi
+general Kenobi !
